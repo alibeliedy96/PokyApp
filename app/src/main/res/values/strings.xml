@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pocky</string>
+    <string name="go_to_home">go to home</string>
+    <string name="go_to_fav">go to Fav</string>
+</resources>
